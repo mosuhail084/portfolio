@@ -3,7 +3,7 @@ export const Work = [
         id:1,
         name:"Broadway RC",
         description:"It is a Visa Provider and consultancy build on top of the Laravel.",
-        tags:["Laravel","Backend"],
+        tags:["Laravel8","Backend"],
         
         demo:"https://broadwayrc.com/",
         github:""
