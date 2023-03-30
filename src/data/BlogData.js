@@ -23,22 +23,22 @@ export const Blogs = [
     //     imgSrc:"https://miro.medium.com/max/1400/1*1yoqQO2PaKtmCskpz28Tkg.png",
     //     link:"https://nishant99tiwari.medium.com/css-flex-boxing-guide-46f0a093e778"
     // },
-    // {
-    //     id:4,
-    //     name:"What and Why if __name__ == “__main__” in Python",
-    //     tags:["python"],
-    //     date:"9 Jun, 2021",
-    //     imgSrc:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png",
-    //     link:"https://nishant99tiwari.medium.com/what-and-why-if-name-main-in-python-23bed7cac274"
-    // },
-    // {
-    //     id:5,
-    //     name:"Methodology: General approach to hunt bugs",
-    //     tags:["bugs","bounty"],
-    //     date:"1 April, 2021",
-    //     imgSrc:"https://miro.medium.com/max/1400/1*zlk4siAa1LnG0TtM-vjnfw.png",
-    //     link:"https://nishant99tiwari.medium.com/methodolgy-general-approach-to-hunt-bugs-8a75643f74a"
-    // },
+    {
+        id:4,
+        name:"@Autowired In Spring",
+        tags:["J2EE"],
+        date:"9 Sep, 2022",
+        imgSrc:"https://miro.medium.com/v2/resize:fit:640/format:webp/1*CTWs1G6DYLvOtCTEtk2kJA.jpeg",
+        link:"https://medium.com/@mosuhail084/autowired-in-spring-20101b9e9bb9"
+    },
+    {
+        id:5,
+        name:"Why do we need JSP files when we can do the same thing with servlets as well?",
+        tags:["J2EE","servlet"."jsp","java"],
+        date:"25 November, 2022",
+        imgSrc:"https://miro.medium.com/v2/resize:fit:828/format:webp/1*Zq5iKa5wjLcFyrLM7kjDag.jpeg",
+        link:"https://medium.com/@mosuhail084/why-do-we-need-jsp-files-when-we-can-do-the-same-thing-with-servlets-as-well-e7e048d5a8c9"
+    },
     
   
 ] 
