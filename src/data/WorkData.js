@@ -1,7 +1,7 @@
 export const Work = [
     {
         id:1,
-        name:"Broadway RC",
+        name:"Broadway RC1",
         description:"It is a Visa Provider and consultancy build on top of the Laravel.",
         tags:["Laravel8","Backend"],
         
