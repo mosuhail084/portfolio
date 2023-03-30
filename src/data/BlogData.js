@@ -24,7 +24,7 @@ export const Blogs = [
     //     link:"https://nishant99tiwari.medium.com/css-flex-boxing-guide-46f0a093e778"
     // },
     {
-        id:4,
+        id:2,
         name:"@Autowired In Spring",
         tags:["J2EE"],
         date:"9 Sep, 2022",
@@ -32,7 +32,7 @@ export const Blogs = [
         link:"https://medium.com/@mosuhail084/autowired-in-spring-20101b9e9bb9"
     },
     {
-        id:5,
+        id:3,
         name:"Why do we need JSP files when we can do the same thing with servlets as well?",
         tags:["J2EE","servlet"."jsp","java"],
         date:"25 November, 2022",
