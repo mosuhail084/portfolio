@@ -29,11 +29,11 @@ export const Work = [
     },
     {
         id:4,
-        name:"Crome Extension",
-        description:"A cool looking extension to increase your productivity.",
+        name:"Learning Management System",
+        description:"DRKCA  Institute is the India’s One of the Pioneer Educational organizations engaged in the Literary research and training in the Field of Information Technology Courses and so many other job oriented career courses.",
         tags:["react","crome"],
         
-        demo:"https://chrome.google.com/webstore/detail/amayras-tab/pngdjolcchamoihdmcboabhpkmmgkcdi",
+        demo:"https://drkca.in/",
         github:""
        
     },{
