@@ -34,7 +34,7 @@ export const Blogs = [
     {
         id:3,
         name:"Why do we need JSP files when we can do the same thing with servlets as well?",
-        tags:["J2EE","servlet"."jsp","java"],
+        tags:["J2EE","servlet","jsp","java"],
         date:"25 November, 2022",
         imgSrc:"https://miro.medium.com/v2/resize:fit:828/format:webp/1*Zq5iKa5wjLcFyrLM7kjDag.jpeg",
         link:"https://medium.com/@mosuhail084/why-do-we-need-jsp-files-when-we-can-do-the-same-thing-with-servlets-as-well-e7e048d5a8c9"
