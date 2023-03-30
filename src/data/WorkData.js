@@ -31,7 +31,7 @@ export const Work = [
         id:4,
         name:"Learning Management System",
         description:"DRKCA  Institute is the India’s One of the Pioneer Educational organizations engaged in the Literary research and training in the Field of Information Technology Courses and so many other job oriented career courses.",
-        tags:["react","crome"],
+        tags:["Laravel","Backend"],
         
         demo:"https://drkca.in/",
         github:""
