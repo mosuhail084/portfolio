@@ -1,9 +1,9 @@
 export const Work = [
     {
         id:1,
-        name:"Broadway RC1",
+        name:"Broadway RC",
         description:"It is a Visa Provider and consultancy build on top of the Laravel.",
-        tags:["Laravel8","Backend"],
+        tags:["Laravel","Backend"],
         
         demo:"https://broadwayrc.com/",
         github:""
@@ -20,12 +20,12 @@ export const Work = [
     },
     {
         id:3,
-        name:"Amayra's Tracker",
+        name:"My Store",
         description:"A habit tracker plateform build in ReactJS. With pomodoro, archive  and many tracker functionalities.",
-        tags:["react","api","mockbee"],
+        tags:["iOS","api","Node.js","express.js"],
         
-        demo:"https://amayrastracker.netlify.app/",
-        github:""
+        demo:"",
+        github:"https://github.com/mosuhail084/MyStore-iOS/tree/main/mystore"
     },
     {
         id:4,
