@@ -1,7 +1,7 @@
 export const Blogs = [
     {
         id:1,
-        name:"How to Implement Multiple Authentication Guards in Laravel 8",
+        name:"How to Implement Multiple Authentication Guards in Laravel 8.",
         tags:["Laravel 8","Laravel Authentication","laravel multiple authentication"],
         date:"10 may, 2022",
         imgSrc:"https://miro.medium.com/max/700/1*Bu4DUCqDGGFpH10rPiDYUg.jpeg",
