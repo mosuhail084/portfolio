@@ -7,14 +7,7 @@ export const Blogs = [
         imgSrc:"https://miro.medium.com/max/700/1*Bu4DUCqDGGFpH10rPiDYUg.jpeg",
         link:"https://medium.com/@mosuhail084/how-to-implement-multiple-authentication-guards-in-laravel-8-c1655b7a5f09"
     },
-    // {
-    //     id:2,
-    //     name:"Transpiler VS Compiler",
-    //     tags:["javascript,transpilor,compilor"],
-    //     date:"8 jan, 2022",
-    //     imgSrc:"https://miro.medium.com/max/1400/1*q0rYUqIBDL2ScJUZalcVYw.png",
-    //     link:"https://nishant99tiwari.medium.com/transpiler-vs-compiler-2c138de85d01"
-    // },
+    
     // {
     //     id:3,
     //     name:"CSS Flex Boxing Guide",
@@ -40,5 +33,12 @@ export const Blogs = [
         link:"https://medium.com/@mosuhail084/why-do-we-need-jsp-files-when-we-can-do-the-same-thing-with-servlets-as-well-e7e048d5a8c9"
     },
     
-  
+    {
+        id:4,
+        name:"How to Use & Integrate CKEditor in Laravel?",
+        tags:["Laravel 8","Laravel Authentication","CKEditor"],
+        date:"09 May, 2023",
+        imgSrc:"https://miro.medium.com/v2/resize:fit:786/format:webp/1*MQhbkRBk7o83lrB0pnlqkQ.jpeg",
+        link:"https://medium.com/@mosuhail084/how-to-use-integrate-ckeditor-in-laravel-75d495e97591"
+    },
 ] 
