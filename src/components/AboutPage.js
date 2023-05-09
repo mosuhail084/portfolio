@@ -66,9 +66,9 @@ const AboutPage = () => {
           <img src={astronaut} alt="spaceman" />
         </Spaceman>
         <Main>
-          I'm a Full-stack web developer with a passion for software architecture and programming best practices. 
+          I'm a Full-stack developer with a passion for software architecture and programming best practices. 
           <br /> <br />
-          Over the last 2 years, I have developed and maintained complex Web apps. I love writing clean code and talking and writing about it . 
+          Over the last 2 years, I have developed and maintained complex Web and Mobile apps. I love writing clean code and talking and writing about it . 
           <br /> <br />I believe everything is an Art when you put your
           consciousness in it. You can connect with me via social links.
         </Main>
