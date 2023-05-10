@@ -41,4 +41,12 @@ export const Blogs = [
         imgSrc:"https://miro.medium.com/v2/resize:fit:786/format:webp/1*MQhbkRBk7o83lrB0pnlqkQ.jpeg",
         link:"https://medium.com/@mosuhail084/how-to-use-integrate-ckeditor-in-laravel-75d495e97591"
     },
+    {
+        id:5,
+        name:"Sending queue emails in Laravel",
+        tags:["Laravel","Laravel Queue","Laravel email"],
+        date:"10 may, 2023",
+        imgSrc:"https://miro.medium.com/v2/resize:fit:1100/format:webp/1*HA4AvK9jn0wP27mHd6t1Gg.jpeg",
+        link:"https://medium.com/@mosuhail084/sending-queue-emails-in-laravel-6ac24d84f23e"
+    },
 ] 
