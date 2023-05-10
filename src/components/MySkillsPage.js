@@ -114,12 +114,7 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 Java, Spring Boot, Android, Php, Laravel, Codeignter, React.js, Node.js, Express.js, Mysql, MongoDB etc.
 </p>
 </Description>
-// <Description>
-// <strong>Tools</strong>
-// <p>
-// VScode, Github, Codepen etc.
-// </p>
-// </Description>
+
 
             </Main>
 
