@@ -103,7 +103,7 @@ I love to write about refactoring, testing, best practices, and stuff.
             </Main>
             <Main>
 <Title>
-    <Develope width={40} height={40} /> Backend Developer
+    <Develope width={40} height={40} /> Full Stack Developer
 </Title>
 <Description>
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
@@ -111,15 +111,15 @@ I value business or brand for which i'm creating, thus i enjoy bringing new idea
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, jQuery, Php, Laravel, Codeignter, Ajax, Node.js, Express.js, Mysql, MongoDB etc.
+Java, Spring Boot, Android, Php, Laravel, Codeignter, React.js, Node.js, Express.js, Mysql, MongoDB etc.
 </p>
 </Description>
-<Description>
-<strong>Tools</strong>
-<p>
-VScode, Github, Codepen etc.
-</p>
-</Description>
+// <Description>
+// <strong>Tools</strong>
+// <p>
+// VScode, Github, Codepen etc.
+// </p>
+// </Description>
 
             </Main>
 
